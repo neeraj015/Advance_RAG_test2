@@ -1,0 +1,8 @@
+DB_FAISS_PATH = "vectorstore/db_faiss"
+#EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
+DATA_DIR = "data/e23076_uber-ars.pdf"
+#DATA_DIR = "data/"
+VECTORSTORE_PATH = "vectorstore/db_faiss"
+#EMBEDDING_MODEL_NAME = "groq/llama-3-8b-instruct"
+#EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
